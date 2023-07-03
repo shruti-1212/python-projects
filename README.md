@@ -1,4 +1,4 @@
-# python-projects
+# Python-projects
 Interesting Python applications and projects developed on my own.
 
   - **Contact Information** :
